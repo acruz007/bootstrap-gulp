@@ -25,5 +25,5 @@ A gulp node stream process for retooling bootstrap and making preliminary markup
   npm run dev
 ```
 
-  To exit out of the application simply type "control C" simultaneously
+  To exit out of the application simply type "control C" simultaneously.
 
